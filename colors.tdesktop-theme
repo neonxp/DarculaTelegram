@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
-//                          Darcula theme v4 for Telegram Desktop.                              //
+//                          Darcula theme v5 for Telegram Desktop.                              //
 //                                                                                              //
 //                                                                                              //
 //        Based on: SolidDark theme (https://github.com/MasterGroosha/telegram-soliddark-theme) //
@@ -378,3 +378,13 @@ mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: #ffffff;
 mediaviewTransparentFg: #cccccc;
 notificationBg: windowBg;              // Notification background
+sideBarBg: #383b3d; // filters side bar background
+sideBarBgActive: #272727; // filters side bar active background
+sideBarBgRipple: accentDark; // filters side bar ripple effect
+sideBarTextFg: #c9c9c9; // filters side bar text
+sideBarTextFgActive: windowFgActive; // filters side bar active item text
+sideBarIconFg: #a8a8a8; // filters side bar icon
+sideBarIconFgActive: #b8b8b8; // filters side bar active item icon
+sideBarBadgeBg: #b8b8b8; // filters side bar badge background
+sideBarBadgeBgMuted: #272727; // filters side bar unimportant badge background
+sideBarBadgeFg: accentLight; // filters side bar badge text
